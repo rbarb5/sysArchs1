@@ -6,4 +6,9 @@ h1{color:purple;font-family:Aharoni;}
 
 h3{color:blue;font-family:Garamond;}
 
+ul{
+  list-style-type: lower-roman;
+  color:yellow;
+  font-family:"Iskoola Pota";
+}
 
